@@ -1,0 +1,113 @@
+/* .profile-img {
+  border-radius: 50%;
+}
+.nishintSection {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.nishintMain {
+  width: 40%;
+  margin: auto;
+  align-items: center;
+}
+.workExp {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.AboutMe {
+  width: 50%;
+}
+
+#contact {
+  text-decoration: none;
+  color: black;
+  text-align: left;
+  font-weight: 700;
+}
+
+.portfolio {
+  margin-top: 51px;
+  margin-bottom: 140px;
+}
+.SDE {
+  margin-top: 50px;
+  border: 2px solid whitesmoke;
+
+  border-radius: 10px;
+  padding: 40px 0px 0px 25px;
+  display: flex;
+  box-shadow: 1px 1px 1px 1px black;
+}
+.SDE:hover {
+  border: 2px solid black;
+}
+.techImage {
+  width: 300px;
+  height: 200px;
+  border-radius: 10px;
+}
+.SD {
+  display: flex;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+.SDE2 {
+  border: 2px solid whitesmoke;
+  box-shadow: 1px 1px 1px 1px whitesmoke;
+  width: 44%;
+  padding: 40px 0px 0px 25px;
+  overflow: hidden;
+  border-radius: 10px;
+}
+
+.SDE2:hover {
+  border: 2px solid black;
+}
+.SD2-img {
+  width: 350px;
+  height: 200px;
+  border-radius: 10px;
+}
+
+footer {
+  position: sticky;
+  bottom: 40px;
+  background: #ffffff;
+  width: fit-content;
+  margin: auto;
+  box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+}
+
+.footer-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 12px 12px;
+}
+
+.footer-nav a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 10px;
+  transition: all 0.3s ease;
+  background: #f0f0f0;
+}
+
+.footer-nav img {
+  width: 24px;
+  height: 24px;
+  filter: grayscale(100%);
+  transition: filter 0.3s ease, transform 0.3s ease;
+}
+
+.footer-nav a:hover img {
+  filter: none;
+  transform: scale(1.2);
+} */
